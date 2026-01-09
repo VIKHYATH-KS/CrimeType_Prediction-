@@ -24,3 +24,11 @@ Source: Public crime dataset (Kaggle / Open Data Portal).
 
 ## Use Case
 Crime analysis, risk assessment, and predictive analytics.
+
+## Requirements
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
